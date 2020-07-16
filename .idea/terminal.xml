@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TerminalProjectOptionsProvider">
+    <envs>
+      <env key="DJANGO_READ_DOT_ENV_FILE" value="True" />
+      <env key="PYTHONDONTWRITEBYTECODE" value="1" />
+      <env key="PYTHONUNBUFFERED" value="1" />
+    </envs>
+  </component>
+</project>
