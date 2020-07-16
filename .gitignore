@@ -335,4 +335,4 @@ MANIFEST
 docs/locale/
 tests/coverage_html/
 tests/.coverage
-tests/report/
+tests/reports/

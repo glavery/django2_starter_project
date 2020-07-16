@@ -1,0 +1,18 @@
+[run]
+omit =
+  *apps.py,
+  *settings.py,
+  *urls.py,
+  *wsgi.py,
+  *asgi.py,
+  manage.py,
+  *migrations/*,
+  *tests/*,
+branch = True
+
+[xml]
+output = ./tests/reports/coverage.xml
+
+[html]
+directory = ./tests/reports/html
+title = Coverage Report
