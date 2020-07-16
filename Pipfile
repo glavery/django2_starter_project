@@ -4,6 +4,12 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+isort = "*"
+pytest-xdist = "*"
+pre-commit = "*"
+black = "*"
+flake8 = "*"
+pydocstyle = "*"
 
 [packages]
 django = ">=2.2.8,<3"
@@ -11,3 +17,6 @@ django-environ = "*"
 
 [requires]
 python_version = "3.8"
+
+[pipenv]
+allow_prereleases = true
