@@ -3,6 +3,11 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$PROJECT_DIR$/.coveragerc">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/.envs/.local/.env">
           <value>
             <set />
@@ -28,6 +33,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/config/__init__.py">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/config/settings.py">
           <value>
             <set />
@@ -38,12 +48,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/config/urls.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/config/views.py">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/manage.py">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/pytest.ini">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/setup.cfg">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/tests/test_foo.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mediacentral/Pipfile">
           <value>
             <set />
           </value>
